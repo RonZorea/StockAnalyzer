@@ -1,0 +1,54 @@
+1) Momentum-based algorithmic trading
+
+Strategy that relies on the past performance of financial assets to make trading decisions. It involves buying assets that have shown recent upward price momentum and selling those with downward momentum, aiming to capitalize on trends in the market.
+
+Source: 2013 Algorithmic Trading Review,
+	2015 S Feuerriegel  - Evaluation of News-Based Trading Strategies.
+
+2) Statistical arbitrage algorithmic trading
+
+Strategy that involves identifying and exploiting short-term pricing discrepancies between related assets. It relies on statistical models to find pairs of assets that historically move together and then trades on the expectation that their price relationship will revert to its mean, generating profits from market inefficiencies.
+
+Source: 2013 Algorithmic Trading Review.
+
+3) Mean Reversion Algo Trading
+
+This strategy assumes that asset prices will tend to revert to their historical mean or average over time. It involves buying undervalued assets and selling overvalued ones in anticipation of price corrections.
+
+Source: 2013 Algorithmic Trading Review.
+
+4) Market-neutral algorithmic trading 
+
+Strategy designed to generate returns regardless of the overall direction of the market. It involves creating a portfolio that includes both long and short positions, effectively hedging against market movements and profiting from relative performance between different assets.
+
+Source: 2013 Algorithmic Trading Review.
+
+5) Risk-neutral algorithmic trading 
+
+Strategy that aims to make investment decisions without considering risk preferences. It values assets based on expected returns rather than risk considerations, assuming all investors are indifferent to risk and making choices solely to maximize expected returns.
+
+Source: 2013 Algorithmic Trading Review.
+
+6) Equity market-neutral algorithmic trading
+
+Strategy that aims to eliminate exposure to overall stock market movements. It involves taking long and short positions in individual equities or related assets to generate returns primarily from the relative performance of these assets, regardless of broader market trends.
+
+Source: 2013 Algorithmic Trading Review.
+
+7) Sentiment-based selection algorithmic trading 
+
+relies on analyzing market sentiment from sources like news and social media to inform trading decisions. It uses sentiment indicators to gauge market participants' emotional responses and their potential impact on asset prices.(Google query volume)
+
+Source: 2015 S Feuerriegel  - Evaluation of News-Based Trading Strategies.
+
+8) buy-and-hold benchmark strategy
+ 
+in algorithmic trading involves acquiring a portfolio of assets and holding them over an extended period without active trading. It serves as a reference point to assess the performance of more active trading strategies.
+
+Source: 2015 S Feuerriegel  - Evaluation of News-Based Trading Strategies.
+
+9) Subsequent trading strategy 
+
+in algorithmic trading involves adjusting a trading position based on the asset's performance after the initial trade. It aims to capitalize on evolving market conditions and minimize risk by making follow-up trades as the market develops.
+
+Source: 2015 S Feuerriegel  - Evaluation of News-Based Trading Strategies.
